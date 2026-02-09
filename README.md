@@ -601,6 +601,11 @@ and more.
 - **[OAK](https://oak.community)**: OAK is a community currency for the People
   of Oakland.
 
+- **[Signet](https://signet.sebayaki.com)**: Signet is an onchain signature
+  platform on Base where users and AI agents can sign URLs onchain. Features
+  spotlight ads purchasable via USDC using the x402 payment protocol, with an
+  open-source CLI for agent integration.
+
 - **[Tally](https://www.tally.xyz)**: Tally powers the largest DAOs in the
   Ethereum ecosystem. With Tally, you can decentralize your Protocol, project,
   L2 and more. Build on Tally for a robust decentralized ecosystem of tooling.
